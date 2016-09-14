@@ -11,3 +11,4 @@ class DefaultController extends Controller
         return $this->render('SfWebAppCmsBundle:Default:index.html.twig');
     }
 }
+
